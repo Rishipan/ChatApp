@@ -1,5 +1,3 @@
-import 'dart:html';
-
 import 'package:chatapp/component/my_text_field.dart';
 import 'package:chatapp/services/chat/chat_service.dart';
 import 'package:cloud_firestore/cloud_firestore.dart';
